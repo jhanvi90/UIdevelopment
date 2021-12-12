@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:uitask/Screens/models/model.dart';
+import 'package:uitask/Screens/model/model.dart';
 class HomeBody extends StatefulWidget {
   const HomeBody({Key key}) : super(key: key);
 
